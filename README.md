@@ -41,4 +41,6 @@ There will be constant analysis and feedback to find out if the tool is proving 
 
 How to get involved.
 
+https://groups.google.com/forum/#!forum/open-data-hackers
+
 
